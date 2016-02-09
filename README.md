@@ -1,4 +1,4 @@
-## README
+# README
 
 Hack Night 0: Intro to Machine Learning and BCIs
 (Based on workshop by BCIMontreal: https://github.com/bcimontreal/bci_workshop)
